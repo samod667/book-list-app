@@ -4,7 +4,7 @@
 
 <a href="https://samod667.github.io/book-list-app/"><h2>LIVE DEMO</h2></a>
 
-![img-1](img/img1)
+![img-1](img/img1.png)
 <br>
 
 <ul>
